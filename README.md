@@ -1,1 +1,3 @@
-# Hier befinden sich die Lösungen zu den ganzen Arbeitsheften und Lernbüchern
+# Hier befinden sich die Lösungen
+#             zu den
+# Arbeitsheften und Lernbüchern
