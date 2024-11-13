@@ -1,1 +1,1 @@
-# Die-Schulseite-L-sungen
+Hier befinden sich die Lösungen zu den ganzen Arbeitsheften und Lernbüchern
